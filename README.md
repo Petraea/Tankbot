@@ -1,2 +1,2 @@
 # Tankbot
-3D printable tank parts
+Most of the frame has been reverse-engineered from samp20's Mini tank: http://www.thingiverse.com/thing:132199 , and the camera comes from Zalophus' amazing camera mount, http://www.thingiverse.com/thing:350229 .
