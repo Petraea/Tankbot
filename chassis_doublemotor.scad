@@ -143,8 +143,8 @@ translate([0,0,24]) difference(){
     translate([155/2-5,-48,6]) cylinder(r=2.5,h=5,center=true); 
     translate([-155/2+5,-48,6]) cylinder(r=2.5,h=5,center=true); 
     translate([65,0,7]) rotate(90) servohorn_boundaries();
-    translate([35,0,7]) cube([2,20,10],center=true);//Rpi ribbon cable
-    translate([35,-8,7]) cylinder(r=4.2,h=10,center=true);//Servo cables
+    translate([25,0,7]) cube([2,20,10],center=true);//Rpi ribbon cable
+    translate([25,-8,7]) cylinder(r=4.2,h=10,center=true);//Servo cables
 }
 translate([10,0,-7.75]) module_remove();
 }
